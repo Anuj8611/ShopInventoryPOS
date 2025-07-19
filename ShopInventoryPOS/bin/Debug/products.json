@@ -1,0 +1,9 @@
+[
+  { "Id": 1, "Name": "Eggs", "Price": 6, "Stock": 100, "ImagePath": "images/eggs.png" },
+  { "Id": 2, "Name": "Colgate", "Price": 45, "Stock": 40, "ImagePath": "images/colgate.png" },
+  { "Id": 3, "Name": "Amul Milk", "Price": 25, "Stock": 60, "ImagePath": "images/amulmilk.png" },
+  { "Id": 4, "Name": "Amul Bread", "Price": 30, "Stock": 50, "ImagePath": "images/bread.png" },
+  { "Id": 5, "Name": "Maggi", "Price": 15, "Stock": 80, "ImagePath": "images/maggi.png" },
+  { "Id": 6, "Name": "Tata Salt", "Price": 28, "Stock": 80, "ImagePath": "images/salt.png" }
+	
+]

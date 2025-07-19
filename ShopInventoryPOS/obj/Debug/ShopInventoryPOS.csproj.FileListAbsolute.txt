@@ -1,0 +1,13 @@
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\bin\Debug\ShopInventoryPOS.exe.config
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\bin\Debug\ShopInventoryPOS.exe
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\bin\Debug\ShopInventoryPOS.pdb
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\obj\Debug\ShopInventoryPOS.csproj.AssemblyReference.cache
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\obj\Debug\ShopInventoryPOS.Properties.Resources.resources
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\obj\Debug\ShopInventoryPOS.csproj.GenerateResource.cache
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\obj\Debug\ShopInventoryPOS.csproj.CoreCompileInputs.cache
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\obj\Debug\ShopInventoryPOS.exe
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\obj\Debug\ShopInventoryPOS.pdb
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\obj\Debug\ShopInventoryPOS.Form1.resources
+C:\Users\agaur\source\repos\ShopInventoryPOS\ShopInventoryPOS\obj\Debug\ShopInventoryPOS.csproj.CopyComplete
